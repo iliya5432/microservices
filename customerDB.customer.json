@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64e74abd31cc0c0bda1a04b2"
+  },
+  "id": 1,
+  "first_name": "Alex",
+  "last_name": "Johnson",
+  "customer_id": "CUST001",
+  "visa_id": 3,
+  "car_id": 2
+},
+{
+  "_id": {
+    "$oid": "64e74abd31cc0c0bda1a04b3"
+  },
+  "id": 2,
+  "first_name": "Sophia",
+  "last_name": "Lee",
+  "customer_id": "CUST002",
+  "visa_id": 2,
+  "car_id": 4
+},
+{
+  "_id": {
+    "$oid": "64e74abd31cc0c0bda1a04b4"
+  },
+  "id": 3,
+  "first_name": "William",
+  "last_name": "Miller",
+  "customer_id": "CUST003",
+  "visa_id": 1,
+  "car_id": 1
+},
+{
+  "_id": {
+    "$oid": "64e74abd31cc0c0bda1a04b5"
+  },
+  "id": 4,
+  "first_name": "Olivia",
+  "last_name": "Taylor",
+  "customer_id": "CUST004",
+  "visa_id": 5,
+  "car_id": 3
+},
+{
+  "_id": {
+    "$oid": "64e74abd31cc0c0bda1a04b6"
+  },
+  "id": 5,
+  "first_name": "James",
+  "last_name": "Anderson",
+  "customer_id": "CUST005",
+  "visa_id": 4,
+  "car_id": 5
+}]

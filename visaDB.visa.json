@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64e74adb31cc0c0bda1a04b9"
+  },
+  "id": 1,
+  "card_number": "1234 5678 9012 3456",
+  "owner_name": "John Doe",
+  "amount": 5000
+},
+{
+  "_id": {
+    "$oid": "64e74adb31cc0c0bda1a04ba"
+  },
+  "id": 2,
+  "card_number": "9876 5432 1098 7654",
+  "owner_name": "Jane Smith",
+  "amount": 8000
+},
+{
+  "_id": {
+    "$oid": "64e74adb31cc0c0bda1a04bb"
+  },
+  "id": 3,
+  "card_number": "4567 8901 2345 6789",
+  "owner_name": "Michael Johnson",
+  "amount": 3000
+},
+{
+  "_id": {
+    "$oid": "64e74adb31cc0c0bda1a04bc"
+  },
+  "id": 4,
+  "card_number": "5678 9012 3456 7890",
+  "owner_name": "Emily Williams",
+  "amount": 10000
+},
+{
+  "_id": {
+    "$oid": "64e74adb31cc0c0bda1a04bd"
+  },
+  "id": 5,
+  "card_number": "7890 1234 5678 9012",
+  "owner_name": "David Brown",
+  "amount": 7000
+}]

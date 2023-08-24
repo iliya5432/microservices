@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "64e74a9e31cc0c0bda1a04ab"
+  },
+  "id": 1,
+  "company": "Toyota",
+  "model": "Corolla",
+  "type": "Sedan",
+  "price": 20000
+},
+{
+  "_id": {
+    "$oid": "64e74a9e31cc0c0bda1a04ac"
+  },
+  "id": 2,
+  "company": "Honda",
+  "model": "Civic",
+  "type": "Sedan",
+  "price": 22000
+},
+{
+  "_id": {
+    "$oid": "64e74a9e31cc0c0bda1a04ad"
+  },
+  "id": 3,
+  "company": "Ford",
+  "model": "Mustang",
+  "type": "Sports Car",
+  "price": 35000
+},
+{
+  "_id": {
+    "$oid": "64e74a9e31cc0c0bda1a04ae"
+  },
+  "id": 4,
+  "company": "Chevrolet",
+  "model": "Equinox",
+  "type": "SUV",
+  "price": 28000
+},
+{
+  "_id": {
+    "$oid": "64e74a9e31cc0c0bda1a04af"
+  },
+  "id": 5,
+  "company": "Nissan",
+  "model": "Rogue",
+  "type": "SUV",
+  "price": 26000
+}]
